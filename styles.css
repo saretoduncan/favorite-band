@@ -67,6 +67,11 @@ nav {
     padding-bottom: 30px;
 }
 
+.member {
+    padding-bottom: 8px;
+    font-size: 20px;
+}
+
 .banner {
     width: 80%;
     margin: 0 auto;
@@ -82,4 +87,12 @@ nav {
 
 .songs {
     padding-bottom: 15px;
+}
+
+.uorder {
+    padding: 5px 0 0 10px;
+}
+
+.uorder li {
+    padding-top: 10px;
 }
