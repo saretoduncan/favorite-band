@@ -21,7 +21,7 @@ body {
 nav {
     position: fixed;
     display: block;
-    background-color: #111;
+    background-color: rgba(17, 17, 17, 0.753);
     text-align: center;
     width: 100%;
 }
@@ -39,6 +39,10 @@ nav {
     padding: 10px 10px 0;
 }
 
+.list li a {
+    color: rgb(5, 206, 5);
+}
+
 .sol-top {
     width: 90%;
     padding-top: 100px;
@@ -46,7 +50,36 @@ nav {
     margin-right: auto;
 }
 
+.sol-top figcaption {
+    padding-left: 20px;
+}
+
+.about {
+    width: 80%;
+    margin: auto;
+    padding: 70px 0;
+}
+
+.entitle {
+    color: rgb(180, 196, 170);
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
 .banner {
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
+}
+
+.article {
+    padding: 15px 0;
+}
+
+.article p {
+    line-height: 2;
+}
+
+.songs {
+    padding-bottom: 15px;
 }
