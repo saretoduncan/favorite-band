@@ -10,11 +10,12 @@ a {
 
 body {
     background-color: #111;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100vw;
 }
 
 .container {
-    width: 98%;
+    width: 90%;
     margin: auto;
 }
 
@@ -61,7 +62,7 @@ nav {
 
 .about {
     width: 80%;
-    margin: auto;
+    margin: 0 auto;
     padding: 70px 0;
 }
 
@@ -94,6 +95,8 @@ nav {
 
 .songs {
     padding-bottom: 15px;
+    width: 90%;
+    margin: 0 auto;
 }
 
 .uorder {
@@ -145,9 +148,8 @@ nav {
 }
 
 .fav {
-    padding-left: 20px;
-    width: 100%;
-    margin-left: auto;
+    width: 95%;
+    margin-left: 0 auto;
 }
 
 .fav li {
@@ -157,9 +159,19 @@ nav {
     border-radius: 10px;
     margin-top: 4px;
     text-align: center;
+    list-style-type: none;
 }
 
 .fav li :hover {
     color: greenyellow;
     font-weight: 700;
+}
+
+.footer {
+    width: 70%;
+    margin: 0 auto 20px;
+    text-align: center;
+    background: rgb(158, 156, 156);
+    padding: 30px 0;
+    border-radius: 8px;
 }
