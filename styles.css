@@ -39,6 +39,11 @@ nav {
     padding: 10px 10px 0;
 }
 
+.list li :hover {
+    color: rgb(187, 186, 126);
+    font-weight: bold;
+}
+
 .list li a {
     color: rgb(5, 206, 5);
 }
@@ -68,7 +73,7 @@ nav {
 }
 
 .member {
-    padding-bottom: 8px;
+    padding: 70px 0 8px;
     font-size: 20px;
 }
 
@@ -79,6 +84,8 @@ nav {
 
 .article {
     padding: 15px 0;
+    background-color: rgba(100, 148, 237, 0.089);
+    margin-bottom: 30px;
 }
 
 .article p {
@@ -103,6 +110,11 @@ nav {
     padding: 20px 0
 }
 
+.images {
+    background-color: rgba(100, 148, 237, 0.089);
+    padding-bottom: 10px;
+}
+
 .images p {
     width: 50%;
     text-align: center;
@@ -113,4 +125,33 @@ nav {
 
 .images p em {
     color: greenyellow
+}
+
+.songs p {
+    padding: 70px 0 20px;
+    font-size: 40px;
+}
+
+.order {
+    border-top: 1px solid grey;
+    width: 40%;
+    padding-left: 50px;
+    overflow: auto;
+    height: 300px;
+    background-color: black;
+}
+
+.fav {
+    padding-left: 20px;
+    width: 40%;
+}
+
+.fav li {
+    border-top: 1px solid grey;
+    padding: 10px 0;
+}
+
+.fav li :hover {
+    color: greenyellow;
+    font-weight: 700;
 }
