@@ -46,7 +46,7 @@ nav {
 .sol-top {
     width: 90%;
     padding-top: 100px;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-right: auto;
 }
 
@@ -95,4 +95,22 @@ nav {
 
 .uorder li {
     padding-top: 10px;
+}
+
+.bio {
+    margin: 0 40%;
+    width: 20%;
+    padding: 20px 0
+}
+
+.images p {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.images p em {
+    color: greenyellow
 }
