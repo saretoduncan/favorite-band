@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #111;
+    font-family: fantasy;
+}
+
+nav {
+    position: fixed;
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.title {
+    color: rgb(250, 225, 0);
+}
+
+.list {
+    margin: 10px 0;
+}
+
+.list li {
+    display: inline;
+    padding: 10px 10px 0;
+}
