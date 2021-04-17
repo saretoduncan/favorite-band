@@ -1,6 +1,6 @@
 
 
-# New-York-Times-page Clone Project
+# My Favoritie Band Project
 
 > Using pure html and basic css, I have created a webpage of my favorite music band.
 
