@@ -50,7 +50,7 @@ $ git clone https://github.com/saretoduncan/favorite-band.git
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](.github/ISSUE_TEMPLATE/feature_request.md).
+Feel free to check the [issues page](ISSUE_TEMPLATE/feature_request.md).
 
 ## Show your support
 
