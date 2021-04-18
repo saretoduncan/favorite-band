@@ -41,6 +41,7 @@ $ git clone https://github.com/saretoduncan/favorite-band.git
 
 - GitHub: [@saretoduncan](https://github.com/saretoduncan)
 - twitter [@duncan_sareto](https://twitter.com/duncan_sareto)
+- email: duncan.moiyo@student.moringaschool.com
 
 
 
