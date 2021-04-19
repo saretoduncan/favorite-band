@@ -165,13 +165,19 @@
     .fav li :hover {
         color: greenyellow;
         font-weight: 700;
+        transition: 1s;
     }
     
     .footer {
         width: 70%;
         margin: 0 auto 20px;
         text-align: center;
-        background: rgb(158, 156, 156);
+        background: rgb(105, 87, 87);
         padding: 30px 0;
         border-radius: 8px;
+    }
+    
+    .footer img:hover {
+        transition: 0.8s;
+        transform: rotateY(180deg);
     }
