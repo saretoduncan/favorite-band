@@ -179,5 +179,5 @@
     
     .footer img:hover {
         transition: 0.8s;
-        transform: rotateY(180deg);
+        transform: rotateY(360deg);
     }
