@@ -181,3 +181,10 @@
         transition: 0.8s;
         transform: rotateY(360deg);
     }
+    
+    .copy {
+        text-align: center;
+        font-size: 14px;
+        padding-bottom: 5px;
+        ;
+    }
