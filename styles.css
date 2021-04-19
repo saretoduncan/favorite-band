@@ -1,181 +1,177 @@
-* {
-    padding: 0;
-    margin: 0;
-    color: white;
-}
-
-a {
-    text-decoration: none;
-}
-
-body {
-    background-color: #111;
-    font-family: 'Times New Roman', Times, serif;
-    width: 100vw;
-}
-
-.container {
-    width: 90%;
-    margin: auto;
-}
-
-nav {
-    position: fixed;
-    display: block;
-    background-color: rgba(17, 17, 17, 0.753);
-    text-align: center;
-    width: 100%;
-}
-
-.title {
-    color: rgb(250, 225, 0);
-}
-
-.list {
-    margin: 10px 0;
-}
-
-.list li {
-    display: inline;
-    padding: 10px 10px 0;
-}
-
-.list li :hover {
-    color: rgb(187, 186, 126);
-    font-weight: bold;
-}
-
-.list li a {
-    color: rgb(5, 206, 5);
-}
-
-.sol-top {
-    width: 90%;
-    padding-top: 100px;
-    margin-left: 15%;
-    margin-right: auto;
-}
-
-.sol-top figcaption {
-    padding-left: 20px;
-}
-
-.about {
-    width: 80%;
-    margin: 0 auto;
-    padding: 70px 0;
-}
-
-.entitle {
-    color: rgb(180, 196, 170);
-    text-align: center;
-    font-size: 30px;
-    padding-bottom: 30px;
-}
-
-.member {
-    padding: 70px 0 8px;
-    font-size: 20px;
-}
-
-.banner {
-    width: 80%;
-    margin: 0 auto;
-}
-
-.article {
-    padding: 15px 0;
-    background-color: rgba(100, 148, 237, 0.089);
-    margin-bottom: 30px;
-}
-
-.article p {
-    line-height: 2;
-}
-
-.songs {
-    padding-bottom: 15px;
-    width: 90%;
-    margin: 0 auto;
-}
-
-.uorder {
-    padding: 5px 0 0 10px;
-}
-
-.uorder li {
-    padding-top: 10px;
-}
-
-.bio {
-    margin: 0 40%;
-    width: 20%;
-    padding: 20px 0
-}
-
-.images {
-    background-color: rgba(100, 148, 237, 0.089);
-    padding-bottom: 10px;
-}
-
-.images p {
-    width: 50%;
-    text-align: center;
-    margin: 0 auto;
-    font-weight: 700;
-    line-height: 1;
-}
-
-.images p em {
-    color: greenyellow
-}
-
-.songs p {
-    padding: 70px 0 20px;
-    font-size: 40px;
-    text-align: center;
-    color: greenyellow;
-}
-
-.order {
-    border-top: 1px solid grey;
-    width: 40%;
-    margin: auto;
-    padding-left: 50px;
-    overflow: auto;
-    height: 300px;
-    background-color: black;
-}
-
-.fav {
-    width: 95%;
-    margin-left: 0 auto;
-}
-
-.fav li {
-    border-top: 1px solid grey;
-    padding: 10px 0;
-    background-color: rgb(34, 31, 31);
-    border-radius: 10px;
-    margin-top: 4px;
-    text-align: center;
-    list-style-type: none;
-}
-
-.fav li :hover {
-    color: greenyellow;
-    font-weight: 700;
-}
-
-.footer {
-    width: 70%;
-    margin: 0 auto 20px;
-    text-align: center;
-    background: rgb(158, 156, 156);
-    padding: 30px 0;
-    border-radius: 8px;
-}
-
-.ls {
-    padding: 30px;
-}
+    * {
+        padding: 0;
+        margin: 0;
+        color: white;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    body {
+        background-color: #111;
+        font-family: 'Times New Roman', Times, serif;
+        width: 100%;
+    }
+    
+    .container {
+        width: 100%;
+        margin: auto;
+    }
+    
+    nav {
+        position: fixed;
+        display: block;
+        background-color: rgba(17, 17, 17, 0.753);
+        text-align: center;
+        width: 100%;
+    }
+    
+    .title {
+        color: rgb(250, 225, 0);
+    }
+    
+    .list {
+        margin: 10px 0;
+    }
+    
+    .list li {
+        display: inline;
+        padding: 10px 10px 0;
+    }
+    
+    .list li :hover {
+        color: rgb(187, 186, 126);
+        font-weight: bold;
+    }
+    
+    .list li a {
+        color: rgb(5, 206, 5);
+    }
+    
+    .sol-top {
+        width: 90%;
+        padding-top: 100px;
+        margin-left: 5%;
+    }
+    
+    .sol-top figcaption {
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    .about {
+        width: 80%;
+        margin: 0 auto;
+        padding: 70px 0;
+    }
+    
+    .entitle {
+        color: rgb(180, 196, 170);
+        text-align: center;
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .member {
+        padding: 70px 0 8px;
+        font-size: 20px;
+    }
+    
+    .banner {
+        width: 80%;
+        margin: 0 10%;
+    }
+    
+    .article {
+        padding: 15px 0;
+        background-color: rgba(100, 148, 237, 0.089);
+        margin-bottom: 30px;
+    }
+    
+    .article p {
+        line-height: 2;
+    }
+    
+    .songs {
+        padding-bottom: 15px;
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+    .uorder {
+        padding: 5px 0 0 10px;
+    }
+    
+    .uorder li {
+        padding-top: 10px;
+    }
+    
+    .bio {
+        margin: 0 40%;
+        width: 20%;
+        padding: 20px 0
+    }
+    
+    .images {
+        background-color: rgba(100, 148, 237, 0.089);
+        padding-bottom: 10px;
+    }
+    
+    .images p {
+        width: 50%;
+        text-align: center;
+        margin: 0 auto;
+        font-weight: 700;
+        line-height: 1;
+    }
+    
+    .images p em {
+        color: greenyellow
+    }
+    
+    .songs p {
+        padding: 70px 0 20px;
+        font-size: 40px;
+        text-align: center;
+        color: greenyellow;
+    }
+    
+    .order {
+        border-top: 1px solid grey;
+        width: 40%;
+        margin: auto;
+        padding-left: 50px;
+        overflow: auto;
+        height: 300px;
+        background-color: black;
+    }
+    
+    .fav {
+        width: 95%;
+        margin-left: 0 auto;
+    }
+    
+    .fav li {
+        border-top: 1px solid grey;
+        padding: 10px 0;
+        background-color: rgb(34, 31, 31);
+        border-radius: 10px;
+        margin-top: 4px;
+        text-align: center;
+        list-style-type: none;
+    }
+    
+    .fav li :hover {
+        color: greenyellow;
+        font-weight: 700;
+    }
+    
+    .footer {
+        width: 70%;
+        margin: 0 auto 20px;
+        text-align: center;
+        background: rgb(158, 156, 156);
+        padding: 30px 0;
+        border-radius: 8px;
+    }
