@@ -167,8 +167,8 @@
     }
     
     .fav li :hover {
-        color: greenyellow;
-        font-weight: 700;
+        color: rgb(0, 255, 0);
+        font-weight: 900;
         transition: 1s;
     }
     
