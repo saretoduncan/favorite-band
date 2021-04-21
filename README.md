@@ -39,7 +39,7 @@ $ git clone https://github.com/saretoduncan/favorite-band.git
 
 👤 **Author**
 
-DUNCAN kIPKOSGEI MOIYO
+  DUNCAN KIPKOSGEI MOIYO
 
 - GitHub: [@saretoduncan](https://github.com/saretoduncan)
 - twitter: [@duncan_sareto](https://twitter.com/duncan_sareto)
